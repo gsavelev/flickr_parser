@@ -1,0 +1,6 @@
+.DS_Store
+.env
+
+.idea/*
+find_face_with_glasses/__pycache__/*
+flickr_parser/__pycache__/*
