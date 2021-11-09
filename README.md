@@ -26,7 +26,6 @@ pip install -r requirements.txt
 ![](img/29110461261_0fd9933b0d_o.jpg)
 ![](img/2707013695_48b94e9220_o.jpg)
 ![](img/49416467796_fbd3b980cf_k.jpg)
-[full dataset here](https://drive.google.com/file/d/1H5ce7tt95K12qEyjc8Ie7IWKdK8OgHxc/view?usp=sharing)
 
 ## Description of pipeline
 Data collects via official Flickr API.
